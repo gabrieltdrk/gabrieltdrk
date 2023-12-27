@@ -9,23 +9,23 @@
             <li><!-- C# -->
                 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
             </li>
-            <li> <!-- DART -->
-                <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
-            </li>
-            <li> <!-- FLUTTERE -->
-                <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
-            </li>
             <li> <!-- HTML5 -->
                 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
             </li>
             <li> <!-- JAVASCRIPT -->
                 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript">
             </li>
+            <li><!-- REACT -->
+                <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+            </li>
         </ul>
     <h3 align="center">Databases</h3>
         <ul>
-        <li> <!-- MICROSOFT SQL SERVER -->
+            <li> <!-- MICROSOFT SQL SERVER -->
                 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+            </li>
+            <li><!-- MY SQL -->
+                <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white"
             </li>
         </ul>
     <h3> Others </h3>
