@@ -1,61 +1,30 @@
-<h1 align="center">Gabriel Andrade | @gabrieltdrk</h1>
+<h1 align="center">Gabriel Andrade | @gabrieltdrk </h1>
+<p align="center">" To bring back loved ones; That’s what everyone wants. "</p>
 
-<p align="justify">Majoring at Information System, trying to be a Fullstack Developer living in São Paulo, Brazil. Some of my hobbies are playing videogames and watching series.</p>
+## **About me:**
 
+* Gabriel Andrade - 24 years
+* Fullstack developer
+* Majoring at Information Systems
 
-<h2 align="center"> 💻 Stacks:</h2>
-    <h3> Languages & Frameworks </h3>
-        <ul>
-            <li><!-- C# -->
-                <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-            </li>
-            <li> <!-- HTML5 -->
-                <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-            </li>
-            <li> <!-- JAVASCRIPT -->
-                <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript">
-            </li>
-            <li><!-- REACT -->
-                <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-            </li>
-        </ul>
-    <h3 align="center">Databases</h3>
-        <ul>
-            <li> <!-- MICROSOFT SQL SERVER -->
-                <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-            </li>
-            <li><!-- MY SQL -->
-                <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white"
-            </li>
-        </ul>
-    <h3> Others </h3>
-        <ul>
-            <li>
-                <img src="https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white">
-            </li>
-            <li>
-                <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-            </li>
-            <li>
-                <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
-            </li>
-<br>
+## **Hard skills:**
 
-<h2 align="center"> Github stats</h2>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gabrieltdrk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false">
-</p>
+ <p align="left">
+<img src="https://img.shields.io/badge/html5-F2F2F2?logo=html5&style=for-the-badge&logoColor=121111"/>
+<img src="https://img.shields.io/badge/css3-121111?logo=css3&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/javascript-F2F2F2?logo=javascript&style=for-the-badge&logoColor=121111"/>
+<img src="https://img.shields.io/badge/react-121111?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/typescript-F2F2F2?logo=typescript&style=for-the-badge&logoColor=121111"/>
+<img src="https://img.shields.io/badge/node.js-121111?logo=node.js&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/express.js-F2F2F2?logo=express&style=for-the-badge&logoColor=121111"/>
+<img src="https://img.shields.io/badge/mysql-121111?logo=mysql&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/git-F2F2F2?logo=git&style=for-the-badge&logoColor=121111"/>
+<img src="https://img.shields.io/badge/github-121111?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/visual%20studio%20code-F2F2F2?logo=visual%20studio%20code&style=for-the-badge&logoColor=121111"/>
+<img src="https://img.shields.io/badge/jira-121111?logo=jira&style=for-the-badge&logoColor=F2F2F2"/>
+ </p>
 
 
-<h2 align="center"> 🌐 Follow me on my socials: </h3>
-<p align="center">
-    <a href="https://instagram.com/gabrieltdrk">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
-    </a>
-    <a href="https://twitch.tv/gassan">
-        <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white">
-    </a>
-    <a href="https://twitter.com/gabrieltdrk">
-        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white">
-    </a>
-</p>
+<hr>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=gabrieltdrk&style=for-the-badge&title_color=000000&text_color=000000&bg_color=FFFFFF&border_color=000000&show_icons=true&icon_color=d1b200&rank_icon=github"/></p>
