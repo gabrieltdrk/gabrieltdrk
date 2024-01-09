@@ -10,6 +10,7 @@
 ## **Hard skills:**
 
  <p align="left">
+<img src="https://img.shields.io/badge/c%23-121111?logo=csharp&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/html5-F2F2F2?logo=html5&style=for-the-badge&logoColor=121111"/>
 <img src="https://img.shields.io/badge/css3-121111?logo=css3&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/javascript-F2F2F2?logo=javascript&style=for-the-badge&logoColor=121111"/>
