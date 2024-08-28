@@ -3,25 +3,20 @@
 
 ## **About me:**
 
-* Gabriel Andrade - 24 years
-* Fullstack developer
-* Majoring at Information Systems
+I’m currently on a journey to become a Fullstack Developer, with a growing emphasis on backend development. Recently, I’ve discovered a deep passion for backend technologies, which has inspired me to dive deeper into this area while still developing a well-rounded skill set across both front-end and back-end disciplines.
 
-## **Hard skills:**
+When I’m not coding, you can often find me immersing myself in roguelike games, experimenting with Node.js or enjoying a relaxing day at the beach with my girlfriend. These hobbies not only provide a refreshing balance to my technical work but also fuel my creativity and problem-solving skills.
+
+## **Technologys:**
 
  <p align="left">
-<img src="https://img.shields.io/badge/c%23-121111?logo=csharp&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/html5-F2F2F2?logo=html5&style=for-the-badge&logoColor=121111"/>
 <img src="https://img.shields.io/badge/css3-121111?logo=css3&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/javascript-F2F2F2?logo=javascript&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/react-121111?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/typescript-F2F2F2?logo=typescript&style=for-the-badge&logoColor=121111"/>
 <img src="https://img.shields.io/badge/node.js-121111?logo=node.js&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/express.js-F2F2F2?logo=express&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/mysql-121111?logo=mysql&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/fastity.js-F2F2F2?logo=fastity&style=for-the-badge&logoColor=121111%22"/>
+<img src="https://img.shields.io/badge/sql-121111?logo=sql&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/git-F2F2F2?logo=git&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/github-121111?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/visual%20studio%20code-F2F2F2?logo=visual%20studio%20code&style=for-the-badge&logoColor=121111"/>
 <img src="https://img.shields.io/badge/jira-121111?logo=jira&style=for-the-badge&logoColor=F2F2F2"/>
  </p>
 
