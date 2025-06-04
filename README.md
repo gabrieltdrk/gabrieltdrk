@@ -1,13 +1,15 @@
 <h1 align="center">Gabriel Andrade | @gabrieltdrk </h1>
 <p align="center">" To bring back loved ones; That’s what everyone wants. "</p>
 
-## **About me:**
+### 👋 Saaaaaaaaalvê!
 
-My name is Gabriel and I'm 25 years old.
+Me chamo Gabriel, tenho 25 anos e atualmente estou no 6º semestre da faculdade de Sistemas de Informação. Sigo na missão de me tornar um Desenvolvedor Fullstack.
 
-I’m currently on a journey to become a Fullstack Developer, with a growing emphasis on backend development. Recently, I’ve discovered a deep passion for backend technologies, which has inspired me to dive deeper into this area while still developing a well-rounded skill set across both front-end and back-end disciplines.
+Tive a honra de participar (e ganhar 🏆) o primeiro hackathon realizado na minha universidade, o que só reforçou ainda mais minha paixão por tecnologia, resolver problemas e, claro, trabalhar em equipe.
 
-When I’m not coding, you can often find me immersing myself in roguelike games, experimenting with Node.js or enjoying a relaxing day at the beach with my girlfriend. These hobbies not only provide a refreshing balance to my technical work but also fuel my creativity and problem-solving skills.
+Atualmente sou Programador de Sistemas e o SQL é meu parceiro diário... Nas horas vagas estou focando em evoluir cada vez mais em TypeScript e realizar alguns projetos já idealizados.
+
+Fora das linhas de código, caso eu esteja jogando, você vai me encontrar jogando Marvel Rivals, The Binding of Isaac, Chrono Trigger ou Hearthstone. Fora das telas, explorando a baixada santiosta e curtindo uma praia. 🌊👾
 
 ## **Techs:**
 
@@ -22,7 +24,6 @@ When I’m not coding, you can often find me immersing myself in roguelike games
 <img src="https://img.shields.io/badge/git-121111?logo=git&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/jira-F2F2F2?logo=jira&style=for-the-badge&logoColor=121111"/>
  </p>
-
 
 <hr>
 
