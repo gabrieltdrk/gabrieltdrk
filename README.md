@@ -9,7 +9,7 @@ Tive a honra de participar (e ganhar 🏆) o primeiro hackathon realizado na min
 
 Atualmente sou Programador de Sistemas e o SQL é meu parceiro diário... Nas horas vagas estou focando em evoluir cada vez mais em TypeScript e realizar alguns projetos já idealizados.
 
-Fora das linhas de código, caso eu esteja jogando, você vai me encontrar jogando Marvel Rivals, The Binding of Isaac, Chrono Trigger ou Hearthstone. Fora das telas, explorando a baixada santiosta e curtindo uma praia. 🌊👾
+Fora das linhas de código, caso eu esteja jogando, você vai me encontrar jogando Marvel Rivals, The Binding of Isaac, Chrono Trigger ou Hearthstone. Fora das telas, explorando a baixada santista ou curtindo uma praia. 🌊👾
 
 ## **Techs:**
 
